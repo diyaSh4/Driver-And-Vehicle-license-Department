@@ -16,4 +16,4 @@ It utilizes the **.NET Framework** for smooth integration between the front-end 
 - **.NET Framework**
 - **SQL Server**
 - **Windows Forms**
-
+- **OOP**
