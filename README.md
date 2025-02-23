@@ -17,6 +17,3 @@ It utilizes the **.NET Framework** for smooth integration between the front-end 
 - **SQL Server**
 - **Windows Forms**
 
-Clone this repository:
-   ```sh
-   git clone https://github.com/yourusername/DVLD.git
